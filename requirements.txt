@@ -1,2 +1,4 @@
 google-genai
 python-dotenv
+pyttsx3
+edge-tts asyncio pygame

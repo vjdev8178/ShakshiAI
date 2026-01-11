@@ -18,7 +18,8 @@ def ask_ai(user_input):
 
         # Content generate karo
         response = client.models.generate_content(
-            model="gemini-flash-latest", 
+            model="gemini-flash-latest",
+            # model="gemini-pro-latest",
             contents=user_input
         )
         
