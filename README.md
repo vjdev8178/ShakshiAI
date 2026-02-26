@@ -1,4 +1,4 @@
 Gemini Intergeration
-# ShakshiAI
+# SexyAI
 
-#Now , Shakshi can listen and speaking as well...
+#Now , Sexy can listen and speaking as well...
